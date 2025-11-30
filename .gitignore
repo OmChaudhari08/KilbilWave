@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+
+# FastAPI temp audio
+backend/temp_audio.wav
+
+# Node
+node_modules/
+frontend/node_modules/
+
+# React build
+frontend/build/
+
+# OS
+.DS_Store
+
+# Logs
+*.log
